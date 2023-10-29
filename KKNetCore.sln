@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31105.61
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KKNetCore", "KKNetCore\KKNetCore.csproj", "{5B24C1AC-01B2-4550-AB36-244BAEBD7F78}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B24C1AC-01B2-4550-AB36-244BAEBD7F78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B24C1AC-01B2-4550-AB36-244BAEBD7F78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B24C1AC-01B2-4550-AB36-244BAEBD7F78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B24C1AC-01B2-4550-AB36-244BAEBD7F78}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AA3C2B88-1791-49D7-98D4-E38EB4A7536D}
+	EndGlobalSection
+EndGlobal
